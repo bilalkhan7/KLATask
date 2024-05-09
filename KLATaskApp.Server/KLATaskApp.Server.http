@@ -1,0 +1,5 @@
+@KLATaskApp.Server_HostAddress = http://localhost:5257
+
+POST {{KLATaskApp.Server_HostAddress}}/api/currencyConverter/
+Content-Type: application/json
+Accept: application/json
