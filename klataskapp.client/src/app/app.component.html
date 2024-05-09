@@ -1,0 +1,14 @@
+<h1>Currency Converter</h1>
+
+<p>This application converts currency from numbers and separators into words.</p>
+
+<div class="container">
+  <label for="amount">Enter an amount:</label>
+  <input type="text" id="amount" [(ngModel)]="amount" placeholder="value">
+  <button (click)="convertCurrency()">Convert</button>
+</div>
+
+<div *ngIf="conversionResult" class="result">
+  <h4 style="display: inline-block; margin-right: 10px;">Result: </h4>
+  <p style="display: inline;">{{ conversionResult }}</p>
+</div>

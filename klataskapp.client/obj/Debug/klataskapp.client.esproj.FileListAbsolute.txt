@@ -1,0 +1,2 @@
+C:\Users\Bilal.Khan\source\repos\KLATaskApp\klataskapp.client\obj\Debug\klataskapp.client.esproj.CoreCompileInputs.cache
+C:\Users\Bilal.Khan\source\repos\KLATASK\KLATask\klataskapp.client\obj\Debug\klataskapp.client.esproj.CoreCompileInputs.cache
