@@ -1,15 +1,15 @@
 # KLATask
 
-Project Setup:
+This application is created for a coding assignment for Software Developer C#/.NET (gn) position at KLA, Dresden
+
+Application Setup:
 
 Clone the project in your desired directory.
-
 Once cloned, open the folder in Visual Studio and press on build solution. After build is successful press Start.
-
 Navigate to the link where the angular application is running. By default it runs at `https://localhost:4200/`
 
 
-Working:
+Application Working:
 
 Once the application is running on the web browser, enter an amount in the input field and press convert button. 
 After submitting, an HTTP POST Request is sent from the client (Angular app) to the server (ASP.NET). 
