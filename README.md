@@ -5,7 +5,7 @@ This application is created for a coding assignment for Software Developer C#/.N
 Application Setup:
 
 Clone the project in your desired directory.
-Once cloned, open the folder in Visual Studio and press on build solution. After build is successful press Start.
+Once cloned, open the solution file in Visual Studio and press on build solution. After build is successful press Start.
 Navigate to the link where the angular application is running. By default it runs at `https://localhost:4200/`
 
 
